@@ -1,1 +1,5 @@
 bench_2006/*
+*.o
+*/*.a
+sim-outorder
+sysprobe
